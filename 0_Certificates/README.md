@@ -1,5 +1,5 @@
 * CERTIFICATES
-  Sololearn
-  NDG linux 
-  First day on github
-  Git
+1.  Sololearn
+2.  NDG linux 
+3.  First day on github
+4.  Git
