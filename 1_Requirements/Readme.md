@@ -1,1 +1,3 @@
-#RAILWAY RESERVATION SYSTEM
+                                                         RAILWAY RESERVATION SYSTEM 
+   INRODUCTION :
+Railway reservation system is designed to automate the reservation system for railroads. It covers the modules necessary to effectively complete the railway reversion procedure. It includes a train master for adding changed train information and a train schedule for entering train route details such as station name, arrival time, and departure time. The "Railway reservation system" was created to automate the railway ticket reservation and back office tasks. The system may make daily operations more efficient and deliver quick responses.
