@@ -63,6 +63,7 @@ o	Exit.
     HOW:
             Any human error in data input by the person in charge of railway bookings can cause a lot of confusion among railway management, and customers may not acquire seats even if there are empty seats.
             
+            
   
      
 
