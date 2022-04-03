@@ -1,85 +1,87 @@
                                                          RAILWAY RESERVATION SYSTEM 
   ** INRODUCTION :**
-Railway reservation system is designed to automate the reservation system for railroads. It covers the modules necessary to effectively complete the railway reversion procedure. It includes a train master for adding changed train information and a train schedule for entering train route details such as station name, arrival time, and departure time. The "Railway reservation system" was created to automate the railway ticket reservation and back office tasks. The system may make daily operations more efficient and deliver quick responses.
+  
+           Railway reservation system is designed to automate the reservation system for railroads. It covers the modules necessary to effectively complete the railway reversion procedure. It includes a train master for adding changed train information and a train schedule for entering train route details such as station name, arrival time, and departure time. The "Railway reservation system" was created to automate the railway ticket reservation and back office tasks. The system may make daily operations more efficient and deliver quick responses.
  
 ** BENEFITS** 
 
-• Customers may arrange appointments 24 hours a day, seven days a week.
+  • Customers may arrange appointments 24 hours a day, seven days a week.
 
-• Simple Cancellation Process; 
+  • Simple Cancellation Process; 
 
-• User-Friendly Interface
+  • User-Friendly Interface
 
-• Travelers will like the simple and adaptable booking policies.
+  • Travelers will like the simple and adaptable booking policies.
 
-• Show the terms and conditions, as well as details and flights, to the travellers.
+  • Show the terms and conditions, as well as details and flights, to the travellers.
 
-• Display the seating arrangement on the screen, allowing clients to book seats accordingly.
+  • Display the seating arrangement on the screen, allowing clients to book seats accordingly.
 
 **DEFINING OUR SYSTEM **
 
-• Include an railway database.
+   • Include an railway database.
 
-• Add/remove a specific trains.
+   • Add/remove a specific trains.
 
-• View its own train, clients on a certain train, and change railway information.
+   • View its own train, clients on a certain train, and change railway information.
 
-• Maintain personal information (name,age).
+   • Maintain personal information (name,age).
 
-• Keeps the whole client database on file.
+   • Keeps the whole client database on file.
 
 
 **EXPLAINATION**
 
-	Railway  Reservation Application have few inbuilt features like:
+	** Railway  Reservation Application have few inbuilt features like:**
 	
-o	Reserve trains.
+   o	Reserve trains.
 
-o	Cancel trains.
+   o	Cancel trains.
 
-o	Display railway records.
+   o	Display railway records.
 
-o	Exit.
+   o	Exit.
 
 •	**SWOT ANALYSIS**
 
-	**STRENGTHS**
+   	**STRENGTHS**
 
-  	Recognized Worldwide
+     	Recognized Worldwide
   
-  	Present on several social media platforms 
+     	Present on several social media platforms 
   
-  	Lower prices than hotels
+     	Lower prices than hotels
   
-  	Customer service 24/7
+     	Customer service 24/7
   
-  	Trustworthy    
+     	Trustworthy    
 
 	**WEAKNESS**
 
-  	Light presence on Youtube 
+    	Light presence on Youtube 
   
-  	Easy to Bussiness model 
+    	Easy to Bussiness model 
+    
+ 	**OPPORTUNITIES**
 
-	**OPPORTUNITIES**
-
-  	Increase Security
+    	Increase Security
   
-  	Create VIP experiences
+    	Create VIP experiences
   
-  	Business Travel 
+    	Business Travel 
   
 	**THREATS **
 
-  	Competitors
+    	Competitors
   
-  	Legal matters
+    	Legal matters
   
-  	Bad press 
+    	Bad press 
   
   
-  **4W's and 1'H**
-    WHO:
+  **4W's and 1'H** 
+  
+     WHO:
            Railway management and department
 	   
     WHAT:
