@@ -1,1 +1,1 @@
-
+**The basic goal of building a reservation system is to deliver all of the information that users demand. User friendliness is essential, which means that the user must be able to obtain information without having to go through laborious searching operations. Other significant software needs include data security, extensibility, and maintainability.**
