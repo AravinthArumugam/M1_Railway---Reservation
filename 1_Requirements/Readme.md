@@ -4,10 +4,10 @@ Railway reservation system is designed to automate the reservation system for ra
  
  BENEFITS 
 
-• Customers may arrange appointments 24 hours a day, seven days a week.
-• Simple Cancellation Process; • User-Friendly Interface
+• Customers may arrange appointments 24 hours a day, seven days a week./
+• Simple Cancellation Process; |• User-Friendly Interface
 
-• Travelers will like the simple and adaptable booking policies.
+• Travelers will like the simple and adaptable booking policies.--
 
 • Show the terms and conditions, as well as details and flights, to the travellers.
 
