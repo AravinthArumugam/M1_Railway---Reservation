@@ -22,7 +22,7 @@ DEFINING OUR SYSTEM
 • Keeps the whole client database on file.
 
 
-EXPLAINATION
+**EXPLAINATION**
 	Railway  Reservation Application have few inbuilt features like:
 o	Reserve trains.
 o	Cancel trains.
