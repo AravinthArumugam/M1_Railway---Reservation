@@ -101,8 +101,26 @@
             Any human error in data input by the person in charge of railway bookings can cause a lot of confusion among railway management, and customers may not acquire seats even if there are empty seats.
             
             
-  
+  **HIGH LEVEL REQUIREMENTS **
      
+
+   ID  	        |                       Description 	       | Category	|  Status
+PS01    | User will be able to add new passenger record	|      |Technical 	|Implemented 
+PS02	|User will be able to read a passenger record 	       |Technical 	|Implemented 
+PS03	|User will be able to read all the passenger record    |Technical	|Implemented 
+PS04	|User will be able to read the number of seats availble|Technical 	|Implemented 
+PS05	|User will be able to allot the seats to the passengers|Scenario 	|Implemented 
+PS06	|User will be able to cancel the seats 	Scenario 	Implemented 
+
+
+  **LOW LEVEL REQUIREMENTS **
+  
+  
+  
+    ID	                    DESCRIPTION 	                                                                       | PS ID 	|STATUS 
+  LS01	|A new record must be added by supplying all of the requested information
+         and the Passenger id must be unique; otherwise, the Passenger record will be rejected.	                       | PS01	|Implemented 
+  LS02	|Reading Passenger data should be achievable by printing all available records.	                               | PS02	|Implemented 
 
 
 
